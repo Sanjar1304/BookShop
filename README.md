@@ -1,1 +1,1 @@
-https://Sanjar1304.github.io/BooksShop/index.html
+https://sanjar1304.github.io/BookShop/

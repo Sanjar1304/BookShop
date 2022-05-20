@@ -1,2 +1,2 @@
 
-https://Sanjar1304.github.io/BooksShop/
+https://sanjar1304.github.io/BookShop/

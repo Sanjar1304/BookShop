@@ -1,0 +1,71 @@
+[{
+  "author": "Rasmus Lerdorf, Kevin Tatroe",
+  "imageLink": "./assets/images/book_1.jpg",
+  "title": "Programming PHP 1st Edition",
+  "price": 140,
+  "description": "PHP is a simple yet powerful open-source scripting language for creating dynamic web content. The millions of web sites powered by PHP are testament to its popularity and ease of use. PHP is used by both programmers, who appreciate its flexibility and speed, and web designers, who value its accessibility and convenience."
+},
+  {
+    "author": "Anton Spraul",
+    "imageLink": "./assets/images/book_2.jpg",
+    "title": "Think Like a Programmer",
+    "price": 86,
+    "description": "The real challenge of programming isn't learning a language's syntax—it's learning to creatively solve problems so you can build something great. In this one-of-a-kind text, author V. Anton Spraul breaks down the ways that programmers solve problems and teaches you what other introductory books often ignore: how to Think Like a Programmer."
+  },
+  {
+    "author": "Lewis C. Lin, Shivam P. Patel",
+    "imageLink": "./assets/images/book_3.jpg",
+    "title": "The System Design Interview, 2nd Edition",
+    "price": 55,
+    "description": "The System Design Interview, by Lewis C. Lin and Shivam P. Patel, is a comprehensive book that provides the necessary knowledge, concepts, and skills to pass your system design interview. It's written by industry professionals from Facebook & Google. Get their insider perspective on the proven, practical techniques for answering system design questions like Design YouTube or Design a TinyURL solution."
+  },
+  {
+    "author": "Alex Allain",
+    "imageLink": "./assets/images/book_4.jpg",
+    "title": "JUMPING INTO C++",
+    "price": 122,
+    "description": "C++ is a powerful programming language that will give you a strong grounding in modern programming techniques. In fact, C++ shares concepts with many other languages, so much of what you learn with transfer to other languages that you pick up later."
+  },
+  {
+    "author": "Shuang Wang, Yong Fang, Samuel Cheng",
+    "imageLink": "./assets/images/book_5.jpg",
+    "title": "Distributed Source Coding: Theory and Practice",
+    "price": 150,
+    "description": "Distributed source coding is one of the key enablers for efficient cooperative communication. The potential applications range from wireless sensor networks, ad-hoc networks, and surveillance networks, to robust low-complexity video coding, stereo/Multiview video coding, HDTV, hyper-spectral and multispectral imaging, and biometrics."
+  },
+  {
+    "author": "Daniel Zingaro",
+    "imageLink": "./assets/images/book_6.jpg",
+    "title": "Algorithmic Thinking: A Problem-Based Introduction",
+    "price": 68,
+    "description": "Algorithmic Thinking will teach you how to solve challenging programming problems and design your own algorithms. Daniel Zingaro, a master teacher, draws his examples from world-class programming competitions like USACO and IOI. You'll learn how to classify problems, choose data structures, and identify appropriate algorithms. You'll also learn how your choice of data structure, whether a hash table, heap, or tree, can affect runtime and speed up your algorithms; and how to adopt powerful strategies like recursion, dynamic programming, and binary search to solve challenging problems."
+  },
+  {
+    "author": "Felienne Hermans",
+    "imageLink": "./assets/images/book_7.png",
+    "title": "The Programmer's Brain",
+    "price": 99.9,
+    "description": "In The Programmer’s Brain: What every programmer needs to know about cognition you will learn: Fast and effective ways to master new programming languages, Speed reading skills to quickly comprehend new code, Techniques to unravel the meaning of complex code, Ways to learn new syntax and keep it memorized, Writing code that is easy for others to read, Picking the right names for your variables, Making your codebase more understandable to newcomers, Onboarding new developers to your team."
+  },
+  {
+    "author": "Peter Morville and Louis Rosenfeld",
+    "imageLink": "./assets/images/book_8.png",
+    "title": "Information Architecture for the World Wide Web: Designing Large-Scale Web Sites, 3rd Edition",
+    "price": 120,
+    "description": "The post-Ajaxian Web 2.0 world of wikis, folksonomies, and mashups makes well-planned information architecture even more essential. How do you present large volumes of information to people who need to find what they're looking for quickly? This classic primer shows information architects, designers, and web site developers how to build large-scale and maintainable web sites that are appealing and easy to navigate."
+  },
+  {
+    "author": "O'riely",
+    "imageLink": "./assets/images/book_9.jpg",
+    "title": "Coding on the Weekend",
+    "price": 86,
+    "description": "Coding on the weekend it’s like weekday coding but pants are optional animal is a chubby hamster."
+  },
+  {
+    "author": "Cory Althoff and Michael Lopp",
+    "imageLink": "./assets/images/book_10.jpg",
+    "title": "Get a coder job",
+    "price": 55,
+    "description": "Good computer programmers, like software engineers, are not easy to find. As demand continues to rise, and these positions fetch higher and higher salaries, you’ll need to step up your efforts when looking to hire someone for this role. The best way to attract qualified candidates is to provide a targeted and well-written computer programmer job description and salary range information."
+  }
+]

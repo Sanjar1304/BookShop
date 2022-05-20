@@ -1,2 +1,1 @@
-# BookShop
-book shop project for rs-school bookshop task
+https://Sanjar1304.github.io/BooksShop/

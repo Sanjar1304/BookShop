@@ -222,7 +222,7 @@ class BookStore {
 
     document.body.style.overflow = "visible";
   }
-
+  
   renderBag() {
     this.clearBag();
 
